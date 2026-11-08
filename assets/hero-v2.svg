@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="510" viewBox="0 0 1280 510" role="img" aria-labelledby="title desc">
+<title id="title">Ali Elbialy — Backend Engineer. I build what you don't see.</title>
+<desc id="desc">Animated midnight-black and electric-lime engineering control room with orbital diagrams and code.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B13"/><stop offset=".65" stop-color="#0D1621"/><stop offset="1" stop-color="#111B20"/></linearGradient>
+<linearGradient id="lime" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#DEFF8F"/><stop offset=".45" stop-color="#B4FF3B"/><stop offset="1" stop-color="#62DE9D"/></linearGradient>
+<radialGradient id="g"><stop stop-color="#B4FF3B" stop-opacity=".22"/><stop offset="1" stop-color="#B4FF3B" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ABFFB2" stroke-opacity=".075"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+<clipPath id="clip"><rect width="1280" height="510" rx="12"/></clipPath>
+<style>
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes spinreverse{to{transform:rotate(-360deg)}}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}@keyframes blink{50%{opacity:0}}@keyframes trace{0%{stroke-dashoffset:190}100%{stroke-dashoffset:0}}@keyframes slide{0%,10%{transform:translateY(0)}20%,38%{transform:translateY(-27px)}48%,68%{transform:translateY(-54px)}78%,95%{transform:translateY(-81px)}100%{transform:translateY(0)}}
+.spinner{transform-box:fill-box;transform-origin:center;animation:spin 38s linear infinite}.spinner2{transform-box:fill-box;transform-origin:center;animation:spinreverse 65s linear infinite}.blink{animation:blink 1s steps(2) infinite}.pulse{animation:pulse 2.5s ease-in-out infinite}.bob{animation:bob 6s ease-in-out infinite}.trace{animation:trace 7s linear infinite}.slide{animation:slide 12s steps(1) infinite}
+</style>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1280" height="510" fill="url(#bg)"/><rect width="1280" height="510" fill="url(#grid)"/>
+<circle cx="996" cy="245" r="310" fill="url(#g)"/>
+<path d="M0 5H1280" stroke="#B4FF3B" stroke-width="7"/>
+<path d="M0 503H1280" stroke="#B4FF3B" stroke-opacity=".75" stroke-width="2"/>
+<g fill="none" stroke="#D6F3DE" stroke-opacity=".2" stroke-width="1">
+<path d="M26 42h26M39 29v26M1241 44h25M1254 31v26M27 460h26M40 447v26M1232 464h24M1244 452v24"/>
+</g>
+<g font-family="Consolas,'Courier New',monospace">
+<text x="65" y="60" font-size="16" letter-spacing="4" fill="#B4FF3B">AE/ENGINEERING</text>
+<text x="1220" y="60" font-size="13" text-anchor="end" letter-spacing="2" fill="#8C9AAB">SYS.PROFILE / V2.0</text>
+<circle cx="1167" cy="102" r="5" fill="#B4FF3B" class="pulse"/>
+<text x="1182" y="107" font-size="12" fill="#D2F6D2" letter-spacing="1">ONLINE</text>
+<text x="66" y="133" font-size="17" letter-spacing="6" fill="#9CAEC3">HELLO, I'M</text>
+<text x="58" y="236" font-size="108" font-weight="900" letter-spacing="-9" fill="#F2F5FB" font-family="Arial,sans-serif">ALI</text>
+<text x="59" y="343" font-size="108" font-weight="900" letter-spacing="-9" fill="url(#lime)" font-family="Arial,sans-serif">ELBIALY<tspan fill="#F2F5FB">.</tspan></text>
+<rect x="65" y="365" width="430" height="1.5" fill="#B4FF3B" opacity=".7"/>
+<text x="66" y="403" font-size="21" font-weight="700" letter-spacing="5" fill="#F4F6FB">BACKEND ENGINEER</text>
+<text x="66" y="438" font-size="16" fill="#B0BCCB">I build what you don't see.</text>
+<text x="66" y="473" font-size="12" letter-spacing="1.7" fill="#899AB0">API / SAAS / COMMERCE / SYSTEM DESIGN</text>
+</g>
+<g transform="translate(916 270)">
+<circle r="226" fill="none" stroke="#B4FF3B" stroke-opacity=".12"/>
+<circle r="190" fill="none" stroke="#96FFAA" stroke-opacity=".25"/>
+<circle r="156" fill="none" stroke="#B4FF3B" stroke-opacity=".55" stroke-dasharray="6 14" stroke-width="1.7" class="spinner"/>
+<circle r="125" fill="none" stroke="#B4FF3B" stroke-opacity=".23"/>
+<circle r="95" fill="none" stroke="#B4FF3B" stroke-opacity=".52" stroke-width="1.4" stroke-dasharray="2 6" class="spinner2"/>
+<circle r="76" fill="#10261C" stroke="#B4FF3B" stroke-width="2"/>
+<circle r="62" fill="none" stroke="#C6FF81" opacity=".3"/>
+<text x="0" y="9" text-anchor="middle" font-family="Consolas,monospace" fill="#B4FF3B" font-size="34" font-weight="700">&lt;AE/&gt;</text>
+<text x="0" y="34" text-anchor="middle" font-family="Consolas,monospace" fill="#AEC9BB" font-size="9" letter-spacing="3">CORE</text>
+<path d="M-200 0H-176M176 0H204M0 -200V-174M0 174V202" stroke="#91C7AA" opacity=".5"/>
+<path d="M-135 75A155 155 0 0 0 80 134" fill="none" stroke="#C7FF79" stroke-width="2" stroke-dasharray="18 190" class="trace"/>
+<circle cx="-134" cy="-78" r="5" fill="#C3FF5C" class="pulse"/><circle cx="127" cy="88" r="5" fill="#C3FF5C" class="pulse"/>
+</g>
+<g font-family="Consolas,monospace" font-size="12" fill="#D5E9D8" class="bob">
+<rect x="680" y="157" width="120" height="36" fill="#152333" stroke="#486074"/>
+<circle cx="698" cy="175" r="4" fill="#B4FF3B"/><text x="711" y="179">SECURITY</text>
+<rect x="1042" y="149" width="127" height="36" fill="#152333" stroke="#486074"/>
+<circle cx="1060" cy="167" r="4" fill="#B4FF3B"/><text x="1073" y="171">DATA FLOW</text>
+<rect x="698" y="365" width="114" height="36" fill="#152333" stroke="#486074"/>
+<circle cx="716" cy="383" r="4" fill="#B4FF3B"/><text x="729" y="387">RELIABLE</text>
+<rect x="1052" y="375" width="117" height="36" fill="#152333" stroke="#486074"/>
+<circle cx="1070" cy="393" r="4" fill="#B4FF3B"/><text x="1083" y="397">SCALABLE</text>
+</g>
+<g fill="#A0B8B2" font-family="Consolas,monospace" font-size="10" letter-spacing="1.5"><text x="705" y="100">FIG 01. ENGINEERING CORE</text><text x="1116" y="475" text-anchor="end">BUILD / SHIP / EVOLVE</text></g>
+</g>
+</svg>

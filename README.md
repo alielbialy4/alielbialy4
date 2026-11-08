@@ -7,9 +7,9 @@
 
 <br>
 
-### THE CODE IS THE EASY PART. THE SYSTEM IS THE CHALLENGE.
+<h3>THE CODE IS THE EASY PART. THE SYSTEM IS THE CHALLENGE.</h3>
 
-**Backend engineer** building APIs, multi-tenant products, commerce infrastructure and integrations with **PHP / Laravel**.
+<p><strong>Backend engineer</strong> building APIs, multi-tenant products, commerce infrastructure and integrations with <strong>PHP / Laravel</strong>.</p>
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-**[↗ LAUNCH EXPERIENCE](https://alielbialy4.github.io/)** &nbsp;·&nbsp; **[⌘ OPEN TERMINAL](https://alielbialy4.github.io/#console)** &nbsp;·&nbsp; **[◈ EXPLORE SYSTEMS](https://alielbialy4.github.io/#work)**
+<p><a href="https://alielbialy4.github.io/"><strong>↗ LAUNCH EXPERIENCE</strong></a> &nbsp;·&nbsp; <a href="https://alielbialy4.github.io/#console"><strong>⌘ OPEN TERMINAL</strong></a> &nbsp;·&nbsp; <a href="https://alielbialy4.github.io/#work"><strong>◈ EXPLORE SYSTEMS</strong></a></p>
 
 <sub>GitHub READMEs can't execute JavaScript. The linked portfolio is where the real interaction happens.</sub>
 
@@ -33,21 +33,21 @@
 <tr>
 <td width="33%" valign="top">
 
-**◈ COMMERCE SYSTEMS**
+<strong>◈ COMMERCE SYSTEMS</strong>
 
 POS / ERP · Multi-branch operations · Stock · Orders · Payments
 
 </td>
 <td width="33%" valign="top">
 
-**⬡ SAAS PLATFORMS**
+<strong>⬡ SAAS PLATFORMS</strong>
 
 Tenant isolation · Secure APIs · RBAC · Data boundaries
 
 </td>
 <td width="33%" valign="top">
 
-**↗ CONNECTED PRODUCTS**
+<strong>↗ CONNECTED PRODUCTS</strong>
 
 OAuth · Webhooks · External APIs · Queues · Realtime
 
@@ -115,7 +115,7 @@ Most commercial product code is private. This profile intentionally doesn't expo
 
 <div align="center">
 
-**BUILD WITH CURIOSITY. SHIP WITH INTENTION.**
+<strong>BUILD WITH CURIOSITY. SHIP WITH INTENTION.</strong>
 
 <sub>Designed for engineers who care about how things work beneath the surface.</sub>
 

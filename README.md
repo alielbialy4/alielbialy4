@@ -1,25 +1,153 @@
-# 👋 Hey there, I'm Ali Elbialy!
+<div align="center">
 
-## 🚀 About Me
-I'm a passionate **Backend Developer** with experience in **Laravel, PHP, JavaScript, and Distributed Systems**. I love building scalable applications and solving challenging problems. Currently working at **Benrdl** and exploring **Docker & Native PHP MVC** to level up my skills!  
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/hero-mobile.svg">
+  <img src="./assets/hero-desktop.svg" alt="Ali Elbialy — Backend Engineer | APIs, SaaS, Commerce and Integrations" width="100%">
+</picture>
 
-## 🔧 Technologies & Tools
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alielbialy4&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alielbialy4&layout=compact&theme=radical)
+[![Profile](https://img.shields.io/badge/GitHub-alielbialy4-151B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alielbialy4)
+[![Explore Code](https://img.shields.io/badge/EXPLORE-PUBLIC%20REPOSITORIES-1B5669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alielbialy4?tab=repositories)
+![Location](https://img.shields.io/badge/BASED%20IN-EGYPT-36275B?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+</div>
 
----
-### ⭐ Fun Fact
-🧩 I enjoy solving coding challenges and exploring new technologies!
+<br>
 
-💬 Feel free to reach out if you want to collaborate or discuss anything tech-related!
+## 👋 More than endpoints. I build the systems behind products.
+
+I'm **Ali Elbialy**, a backend-focused software engineer working with **PHP and Laravel** to turn complex business processes into dependable software.
+
+My favorite problems live where **architecture meets real-world operations**: branch-aware commerce, inventory and finance workflows, multi-tenant systems, secure access, and integrations that need to keep working after launch.
+
+> **My approach:** understand the business rule, design the boundaries, then make the implementation reliable, observable, and maintainable.
+
+<br>
+
+## ⚡ What I build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 Backend Architecture
+**The foundation of scalable products.**
+
+- REST APIs & service boundaries
+- Multi-tenancy & data isolation
+- Authentication, permissions & RBAC
+- Background jobs & event-driven flows
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 Commerce & Operations
+**Where software meets business reality.**
+
+- POS / ERP workflows
+- Multi-branch operations
+- Inventory & financial reporting
+- Order and payment lifecycles
+
+</td>
+<td width="33%" valign="top">
+
+### 🔗 Integrations
+**Making different systems work as one.**
+
+- OAuth & external APIs
+- Payments & webhooks
+- Notifications & real-time features
+- Cloud storage & service integrations
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🧰 Engineering toolkit
+
+<div align="center">
+
+**Core technologies**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,docker,git,github,linux,js,ts,react&amp;perline=12" alt="PHP, Laravel, MySQL, PostgreSQL, Redis, Docker, Git, GitHub, Linux, JavaScript, TypeScript, React" />
+
+<br><br>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+<br>
+
+## 🧭 How I think about engineering
+
+```text
+Business requirements
+        │
+        ▼
+Domain rules & clear boundaries
+        │
+        ▼
+Secure APIs + predictable data flows
+        │
+        ▼
+Observability + maintainability
+        │
+        ▼
+Software that teams can confidently evolve
+```
+
+<details>
+<summary><b>🔍 Principles I keep coming back to</b></summary>
+
+<br>
+
+- **Business correctness first:** an elegant API means little if the underlying transaction is wrong.
+- **Explicit access boundaries:** permissions and tenant/branch scoping should never be accidental.
+- **Think in failure modes:** retries, idempotency, concurrency, and external-service failures matter.
+- **Design for the next engineer:** readable code and clear ownership beat clever shortcuts.
+- **Keep learning:** architecture, infrastructure, and security are continuous disciplines.
+
+</details>
+
+<br>
+
+## 📈 GitHub activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alielbialy4&amp;theme=tokyonight" width="96%" alt="Ali Elbialy's public GitHub contribution overview" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alielbialy4&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1428&amp;title_color=6EE7F9&amp;icon_color=A78BFA&amp;text_color=C9D5ED" width="48%" alt="GitHub public statistics" />
+  <img src="https://streak-stats.demolab.com?user=alielbialy4&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1428" width="48%" alt="GitHub contribution streak" />
+</div>
+
+<sub>GitHub visualizations are generated by third-party services and may not reflect private engineering work.</sub>
+
+<br><br>
+
+## 🚀 Explore my work
+
+Some of the most interesting engineering problems I work on are in private product repositories. For code that is public, you can explore my [repositories](https://github.com/alielbialy4?tab=repositories), including my [graduation project frontend](https://github.com/alielbialy4/graduation_project) and [backend](https://github.com/alielbialy4/graduation_project_back).
+
+I enjoy exchanging ideas about **backend architecture, product engineering, APIs, and practical system design**.
+
+<div align="center">
+
+<br>
+
+[![Explore My GitHub](https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-151B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alielbialy4?tab=repositories)
+
+<br><br>
+
+<img src="./assets/footer.svg" alt="Build with curiosity. Ship with intention." width="100%" />
+
+</div>

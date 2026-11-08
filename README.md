@@ -1,153 +1,122 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 700px)" srcset="./assets/hero-mobile.svg">
-  <img src="./assets/hero-desktop.svg" alt="Ali Elbialy — Backend Engineer | APIs, SaaS, Commerce and Integrations" width="100%">
+  <source media="(max-width: 700px)" srcset="./assets/hero-mobile-v2.svg">
+  <img src="./assets/hero-v2.svg" alt="Ali Elbialy — Backend Engineer | I build what you don't see" width="100%">
 </picture>
 
 <br>
 
-[![Profile](https://img.shields.io/badge/GitHub-alielbialy4-151B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alielbialy4)
-[![Explore Code](https://img.shields.io/badge/EXPLORE-PUBLIC%20REPOSITORIES-1B5669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alielbialy4?tab=repositories)
-![Location](https://img.shields.io/badge/BASED%20IN-EGYPT-36275B?style=for-the-badge&logo=googlemaps&logoColor=white)
+### THE CODE IS THE EASY PART. THE SYSTEM IS THE CHALLENGE.
+
+**Backend engineer** building APIs, multi-tenant products, commerce infrastructure and integrations with **PHP / Laravel**.
+
+<br>
+
+<a href="https://alielbialy4.github.io/">
+  <img src="./assets/enter-portal.svg" alt="Enter the interactive portfolio — live terminal, command palette and systems explorer" width="100%">
+</a>
+
+<br>
+
+**[↗ LAUNCH EXPERIENCE](https://alielbialy4.github.io/)** &nbsp;·&nbsp; **[⌘ OPEN TERMINAL](https://alielbialy4.github.io/#console)** &nbsp;·&nbsp; **[◈ EXPLORE SYSTEMS](https://alielbialy4.github.io/#work)**
+
+<sub>GitHub READMEs can't execute JavaScript. The linked portfolio is where the real interaction happens.</sub>
 
 </div>
 
-<br>
+---
 
-## 👋 More than endpoints. I build the systems behind products.
-
-I'm **Ali Elbialy**, a backend-focused software engineer working with **PHP and Laravel** to turn complex business processes into dependable software.
-
-My favorite problems live where **architecture meets real-world operations**: branch-aware commerce, inventory and finance workflows, multi-tenant systems, secure access, and integrations that need to keep working after launch.
-
-> **My approach:** understand the business rule, design the boundaries, then make the implementation reliable, observable, and maintainable.
-
-<br>
-
-## ⚡ What I build
+### 01 / WHAT I ENGINEER
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 Backend Architecture
-**The foundation of scalable products.**
+**◈ COMMERCE SYSTEMS**
 
-- REST APIs & service boundaries
-- Multi-tenancy & data isolation
-- Authentication, permissions & RBAC
-- Background jobs & event-driven flows
+POS / ERP · Multi-branch operations · Stock · Orders · Payments
 
 </td>
 <td width="33%" valign="top">
 
-### 🛒 Commerce & Operations
-**Where software meets business reality.**
+**⬡ SAAS PLATFORMS**
 
-- POS / ERP workflows
-- Multi-branch operations
-- Inventory & financial reporting
-- Order and payment lifecycles
+Tenant isolation · Secure APIs · RBAC · Data boundaries
 
 </td>
 <td width="33%" valign="top">
 
-### 🔗 Integrations
-**Making different systems work as one.**
+**↗ CONNECTED PRODUCTS**
 
-- OAuth & external APIs
-- Payments & webhooks
-- Notifications & real-time features
-- Cloud storage & service integrations
+OAuth · Webhooks · External APIs · Queues · Realtime
 
 </td>
 </tr>
 </table>
 
-<br>
-
-## 🧰 Engineering toolkit
+### 02 / THE STACK
 
 <div align="center">
 
-**Core technologies**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,docker,git,github,linux,js,ts,react&amp;perline=12" alt="PHP, Laravel, MySQL, PostgreSQL, Redis, Docker, Git, GitHub, Linux, JavaScript, TypeScript, React" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,docker,linux,git,github,js,ts,react&amp;perline=12" alt="PHP, Laravel, MySQL, PostgreSQL, Redis, Docker, Linux, Git, GitHub, JavaScript, TypeScript and React" width="90%">
 
 <br><br>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<code>BACKEND FIRST</code> &nbsp; <code>BUSINESS CORRECTNESS</code> &nbsp; <code>API DESIGN</code> &nbsp; <code>SYSTEM THINKING</code>
 
 </div>
 
-<br>
-
-## 🧭 How I think about engineering
-
-```text
-Business requirements
-        │
-        ▼
-Domain rules & clear boundaries
-        │
-        ▼
-Secure APIs + predictable data flows
-        │
-        ▼
-Observability + maintainability
-        │
-        ▼
-Software that teams can confidently evolve
-```
+### 03 / UNLOCK THE ENGINEERING BRIEF
 
 <details>
-<summary><b>🔍 Principles I keep coming back to</b></summary>
+<summary><b>▸ CLICK TO DECRYPT / HOW I THINK</b></summary>
 
 <br>
 
-- **Business correctness first:** an elegant API means little if the underlying transaction is wrong.
-- **Explicit access boundaries:** permissions and tenant/branch scoping should never be accidental.
-- **Think in failure modes:** retries, idempotency, concurrency, and external-service failures matter.
-- **Design for the next engineer:** readable code and clear ownership beat clever shortcuts.
-- **Keep learning:** architecture, infrastructure, and security are continuous disciplines.
+> **Think beyond the happy path.** Reliable software needs clear boundaries, predictable transactions, secure access and observable failures.
+
+| Mindset | What it means |
+| :-- | :-- |
+| **01 — Domain first** | Model the business rule before choosing a framework trick. |
+| **02 — Boundaries matter** | Tenant, branch and permission checks need to be explicit. |
+| **03 — Failure is normal** | Design external calls, retries and background jobs deliberately. |
+| **04 — Maintainability wins** | Build systems that other engineers can confidently evolve. |
 
 </details>
 
-<br>
-
-## 📈 GitHub activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alielbialy4&amp;theme=tokyonight" width="96%" alt="Ali Elbialy's public GitHub contribution overview" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=alielbialy4&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1428&amp;title_color=6EE7F9&amp;icon_color=A78BFA&amp;text_color=C9D5ED" width="48%" alt="GitHub public statistics" />
-  <img src="https://streak-stats.demolab.com?user=alielbialy4&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1428" width="48%" alt="GitHub contribution streak" />
-</div>
-
-<sub>GitHub visualizations are generated by third-party services and may not reflect private engineering work.</sub>
-
-<br><br>
-
-## 🚀 Explore my work
-
-Some of the most interesting engineering problems I work on are in private product repositories. For code that is public, you can explore my [repositories](https://github.com/alielbialy4?tab=repositories), including my [graduation project frontend](https://github.com/alielbialy4/graduation_project) and [backend](https://github.com/alielbialy4/graduation_project_back).
-
-I enjoy exchanging ideas about **backend architecture, product engineering, APIs, and practical system design**.
-
-<div align="center">
+<details>
+<summary><b>▸ CLICK TO DECRYPT / FIND PUBLIC CODE</b></summary>
 
 <br>
 
-[![Explore My GitHub](https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-151B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alielbialy4?tab=repositories)
+Selected public code and repositories:
 
-<br><br>
+- [**Graduation Project — Backend**](https://github.com/alielbialy4/graduation_project_back)
+- [**Graduation Project — Frontend**](https://github.com/alielbialy4/graduation_project)
+- [**All public repositories**](https://github.com/alielbialy4?tab=repositories)
 
-<img src="./assets/footer.svg" alt="Build with curiosity. Ship with intention." width="100%" />
+Most commercial product code is private. This profile intentionally doesn't expose client repositories or implementation details.
+
+</details>
+
+<details>
+<summary><b>▸ CLICK TO DECRYPT / CONTACT CHANNEL</b></summary>
+
+<br>
+
+**Got a tough backend problem?** I enjoy discussing product architecture, complex workflows and integrations.
+
+[**↗ START A CONVERSATION**](mailto:ali.elmetwaly.dev@gmail.com?subject=Hello%20Ali) · [**↗ VISIT MY INTERACTIVE PORTFOLIO**](https://alielbialy4.github.io/)
+
+</details>
+
+---
+
+<div align="center">
+
+**BUILD WITH CURIOSITY. SHIP WITH INTENTION.**
+
+<sub>Designed for engineers who care about how things work beneath the surface.</sub>
 
 </div>
